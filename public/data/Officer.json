@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "district": "Chennai",
+    "taluk": "Alandur",
+    "ondriyam": "Alandur",
+    "department": "EB",
+    "status": "Emergency",
+    "location": "GST Road",
+    "category": "Power Failure"
+  },
+  {
+    "id": 2,
+    "district": "Chennai",
+    "taluk": "Alandur",
+    "ondriyam": "St. Thomas Mount",
+    "department": "Corporation",
+    "status": "Pending",
+    "location": "Airport Metro Area",
+    "category": "Garbage Overflow"
+  },
+  {
+    "id": 3,
+    "district": "Coimbatore",
+    "taluk": "Pollachi",
+    "ondriyam": "Pollachi North",
+    "department": "EB",
+    "status": "Assigned",
+    "location": "Market Road",
+    "category": "Street Light Not Working"
+  },
+  {
+    "id": 4,
+    "district": "Madurai",
+    "taluk": "Melur",
+    "ondriyam": "Melur",
+    "department": "Corporation",
+    "status": "Emergency",
+    "location": "Bus Stand Area",
+    "category": "Water Leakage"
+  },
+  {
+    "id": 5,
+    "district": "Salem",
+    "taluk": "Attur",
+    "ondriyam": "Attur",
+    "department": "EB",
+    "status": "Pending",
+    "location": "Highway Junction",
+    "category": "Transformer Blast"
+  },
+  {
+    "id": 6,
+    "district": "Chennai",
+    "taluk": "Alandur",
+    "ondriyam": "Alandur",
+    "department": "EB",
+    "status": "Assigned",
+    "location": "Defence Colony",
+    "category": "Voltage Fluctuation"
+  },
+  {
+    "id": 7,
+    "district": "Chennai",
+    "taluk": "Alandur",
+    "ondriyam": "Alandur",
+    "department": "Corporation",
+    "status": "Emergency",
+    "location": "Anna Street",
+    "category": "Drainage Block"
+  },
+  {
+    "id": 8,
+    "district": "Tiruppur",
+    "taluk": "Udumalaipettai",
+    "ondriyam": "Udumalaipettai",
+    "department": "EB",
+    "status": "Resolved",
+    "location": "Main Bazaar",
+    "category": "Power Cable Issue"
+  },
+  {
+    "id": 9,
+    "district": "Erode",
+    "taluk": "Bhavani",
+    "ondriyam": "Bhavani",
+    "department": "Corporation",
+    "status": "Pending",
+    "location": "Temple Street",
+    "category": "Road Damage"
+    
+  },
+  {
+    "id": 10,
+    "district": "Chennai",
+    "taluk": "Alandur",
+    "ondriyam": "Alandur",
+    "department": "EB",
+    "status": "Emergency",
+    "location": "Metro Station",
+    "category": "Substation Failure"
+  }
+]
