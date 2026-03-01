@@ -1,0 +1,225 @@
+{
+  "state": "Tamil Nadu",
+  "districts": [
+
+    {
+      "district": "Chennai",
+      "taluks": [
+        {"taluk": "Alandur", "ondrims": ["Alandur", "St. Thomas Mount"]},
+        {"taluk": "Ambattur", "ondrims": ["Ambattur", "Puzhal"]},
+        {"taluk": "Madhavaram", "ondrims": ["Madhavaram", "Manali"]},
+        {"taluk": "Sholinganallur", "ondrims": ["Sholinganallur", "Perungudi"]},
+        {"taluk": "Mylapore", "ondrims": ["Teynampet", "Adyar"]}
+      ]
+    },
+
+    {
+      "district": "Coimbatore",
+      "taluks": [
+        {"taluk": "Coimbatore North", "ondrims": ["Periyanaickenpalayam", "Karamadai"]},
+        {"taluk": "Coimbatore South", "ondrims": ["Madukkarai", "Thondamuthur"]},
+        {"taluk": "Pollachi", "ondrims": ["Pollachi North", "Pollachi South"]},
+        {"taluk": "Mettupalayam", "ondrims": ["Karamadai", "Sirumugai"]},
+        {"taluk": "Sulur", "ondrims": ["Sulur", "Sultanpet"]}
+      ]
+    },
+
+    {
+      "district": "Madurai",
+      "taluks": [
+        {"taluk": "Madurai North", "ondrims": ["Alanganallur", "Kottampatti"]},
+        {"taluk": "Madurai South", "ondrims": ["Tirupparankundram", "Thiruparankundram"]},
+        {"taluk": "Melur", "ondrims": ["Melur", "Kottampatti"]},
+        {"taluk": "Tirumangalam", "ondrims": ["Kalligudi", "Tirumangalam"]},
+        {"taluk": "Usilampatti", "ondrims": ["Sedapatti", "Usilampatti"]}
+      ]
+    },
+
+    {
+      "district": "Salem",
+      "taluks": [
+        {"taluk": "Salem", "ondrims": ["Panamarathupatti", "Ayothiapattinam"]},
+        {"taluk": "Mettur", "ondrims": ["Kolathur", "Mecheri"]},
+        {"taluk": "Omalur", "ondrims": ["Kadayampatti", "Omalur"]},
+        {"taluk": "Attur", "ondrims": ["Pethanaickenpalayam", "Attur"]},
+        {"taluk": "Edappadi", "ondrims": ["Konganapuram", "Edappadi"]}
+      ]
+    },
+
+    {
+      "district": "Erode",
+      "taluks": [
+        {"taluk": "Erode", "ondrims": ["Modakurichi", "Kodumudi"]},
+        {"taluk": "Bhavani", "ondrims": ["Ammapet", "Bhavani"]},
+        {"taluk": "Gobichettipalayam", "ondrims": ["Gobichettipalayam", "Nambiyur"]},
+        {"taluk": "Sathyamangalam", "ondrims": ["Sathyamangalam", "Thalavadi"]},
+        {"taluk": "Perundurai", "ondrims": ["Chennimalai", "Perundurai"]}
+      ]
+    },
+
+    {
+      "district": "Tiruppur",
+      "taluks": [
+        {"taluk": "Tiruppur North", "ondrims": ["Avinashi", "Uthukuli"]},
+        {"taluk": "Tiruppur South", "ondrims": ["Palladam", "Tiruppur"]},
+        {"taluk": "Dharapuram", "ondrims": ["Dharapuram", "Mulanur"]},
+        {"taluk": "Udumalaipettai", "ondrims": ["Udumalaipettai", "Madathukulam"]},
+        {"taluk": "Kangeyam", "ondrims": ["Kangeyam", "Vellakoil"]}
+      ]
+    },
+
+    {
+      "district": "Trichy",
+      "taluks": [
+        {"taluk": "Srirangam", "ondrims": ["Manikandam", "Andanallur"]},
+        {"taluk": "Lalgudi", "ondrims": ["Pullambadi", "Lalgudi"]},
+        {"taluk": "Musiri", "ondrims": ["Thottiam", "Musiri"]},
+        {"taluk": "Manapparai", "ondrims": ["Manapparai", "Vaiyampatti"]},
+        {"taluk": "Thuraiyur", "ondrims": ["Uppiliapuram", "Thuraiyur"]}
+      ]
+    },
+
+    {
+      "district": "Thanjavur",
+      "taluks": [
+        {"taluk": "Thanjavur", "ondrims": ["Budalur", "Thanjavur"]},
+        {"taluk": "Kumbakonam", "ondrims": ["Kumbakonam", "Tiruvidaimarudur"]},
+        {"taluk": "Papanasam", "ondrims": ["Papanasam", "Ammapettai"]},
+        {"taluk": "Orathanadu", "ondrims": ["Orathanadu", "Thiruvonam"]},
+        {"taluk": "Pattukkottai", "ondrims": ["Pattukkottai", "Madukkur"]}
+      ]
+    },
+
+    {
+      "district": "Dindigul",
+      "taluks": [
+        {"taluk": "Dindigul East", "ondrims": ["Athoor", "Reddiyarchatram"]},
+        {"taluk": "Palani", "ondrims": ["Palani", "Thoppampatti"]},
+        {"taluk": "Oddanchatram", "ondrims": ["Oddanchatram", "Vadamadurai"]},
+        {"taluk": "Nilakottai", "ondrims": ["Nilakottai", "Batlagundu"]},
+        {"taluk": "Vedasandur", "ondrims": ["Vedasandur", "Gujiliamparai"]}
+      ]
+    },
+
+    {
+      "district": "Vellore",
+      "taluks": [
+        {"taluk": "Vellore", "ondrims": ["Anaicut", "Vellore"]},
+        {"taluk": "Katpadi", "ondrims": ["Katpadi", "Gudiyatham"]},
+        {"taluk": "Gudiyatham", "ondrims": ["Gudiyatham", "K.V.Kuppam"]},
+        {"taluk": "Arcot", "ondrims": ["Timiri", "Arcot"]},
+        {"taluk": "Arakkonam", "ondrims": ["Nemili", "Arakkonam"]}
+      ]
+    },
+
+  {
+    "district": "Namakkal",
+    "taluks": [
+      {"taluk": "Namakkal", "ondrims": ["Mohanur", "Erumaipatti"]},
+      {"taluk": "Rasipuram", "ondrims": ["Rasipuram", "Vennandur"]},
+      {"taluk": "Tiruchengode", "ondrims": ["Tiruchengode", "Elachipalayam"]},
+      {"taluk": "Paramathi Velur", "ondrims": ["Paramathi", "Kabilarmalai"]},
+      {"taluk": "Kolli Hills", "ondrims": ["Kolli Hills", "Sendamangalam"]}
+    ]
+  },
+
+  {
+    "district": "Karur",
+    "taluks": [
+      {"taluk": "Karur", "ondrims": ["Thanthoni", "Karur"]},
+      {"taluk": "Kulithalai", "ondrims": ["Kulithalai", "Krishnarayapuram"]},
+      {"taluk": "Aravakurichi", "ondrims": ["Aravakurichi", "K.Paramathy"]},
+      {"taluk": "Krishnarayapuram", "ondrims": ["Krishnarayapuram", "Thogamalai"]},
+      {"taluk": "Kadavur", "ondrims": ["Kadavur", "K.Paramathy"]}
+    ]
+  },
+
+  {
+    "district": "Krishnagiri",
+    "taluks": [
+      {"taluk": "Krishnagiri", "ondrims": ["Bargur", "Mathur"]},
+      {"taluk": "Hosur", "ondrims": ["Hosur", "Shoolagiri"]},
+      {"taluk": "Denkanikottai", "ondrims": ["Denkanikottai", "Kelamangalam"]},
+      {"taluk": "Uthangarai", "ondrims": ["Uthangarai", "Kaveripattinam"]},
+      {"taluk": "Pochampalli", "ondrims": ["Pochampalli", "Veppanahalli"]}
+    ]
+  },
+
+  {
+    "district": "Thoothukudi",
+    "taluks": [
+      {"taluk": "Thoothukudi", "ondrims": ["Karungulam", "Thoothukudi"]},
+      {"taluk": "Tiruchendur", "ondrims": ["Alwarthirunagari", "Tiruchendur"]},
+      {"taluk": "Kovilpatti", "ondrims": ["Kovilpatti", "Kayathar"]},
+      {"taluk": "Ettayapuram", "ondrims": ["Ettayapuram", "Vilathikulam"]},
+      {"taluk": "Srivaikuntam", "ondrims": ["Srivaikuntam", "Ottapidaram"]}
+    ]
+  },
+
+  {
+    "district": "Ramanathapuram",
+    "taluks": [
+      {"taluk": "Ramanathapuram", "ondrims": ["Mandapam", "Bogalur"]},
+      {"taluk": "Paramakudi", "ondrims": ["Paramakudi", "Kamuthi"]},
+      {"taluk": "Rameswaram", "ondrims": ["Rameswaram", "Thiruvadanai"]},
+      {"taluk": "Mudukulathur", "ondrims": ["Mudukulathur", "Kadaladi"]},
+      {"taluk": "Kamuthi", "ondrims": ["Kamuthi", "Narippaiyur"]}
+    ]
+  },
+
+  {
+    "district": "Sivaganga",
+    "taluks": [
+      {"taluk": "Sivaganga", "ondrims": ["Kalaiyarkoil", "Ilayankudi"]},
+      {"taluk": "Karaikudi", "ondrims": ["Sakkottai", "Karaikudi"]},
+      {"taluk": "Devakottai", "ondrims": ["Devakottai", "Kannangudi"]},
+      {"taluk": "Manamadurai", "ondrims": ["Manamadurai", "Tirupuvanam"]},
+      {"taluk": "Tirupathur", "ondrims": ["Tirupathur", "Singampunari"]}
+    ]
+  },
+
+  {
+    "district": "Cuddalore",
+    "taluks": [
+      {"taluk": "Cuddalore", "ondrims": ["Kurinjipadi", "Cuddalore"]},
+      {"taluk": "Chidambaram", "ondrims": ["Kattumannarkoil", "Bhuvanagiri"]},
+      {"taluk": "Panruti", "ondrims": ["Panruti", "Annagramam"]},
+      {"taluk": "Virudhachalam", "ondrims": ["Virudhachalam", "Kammapuram"]},
+      {"taluk": "Tittagudi", "ondrims": ["Tittagudi", "Veppur"]}
+    ]
+  },
+
+  {
+    "district": "Kanchipuram",
+    "taluks": [
+      {"taluk": "Kanchipuram", "ondrims": ["Walajabad", "Kanchipuram"]},
+      {"taluk": "Sriperumbudur", "ondrims": ["Sriperumbudur", "Kundrathur"]},
+      {"taluk": "Uthiramerur", "ondrims": ["Uthiramerur", "Kaliyanoor"]},
+      {"taluk": "Walajabad", "ondrims": ["Walajabad", "Kattavakkam"]},
+      {"taluk": "Tambaram", "ondrims": ["Tambaram", "Chitlapakkam"]}
+    ]
+  },
+
+  {
+    "district": "Tiruvallur",
+    "taluks": [
+      {"taluk": "Tiruvallur", "ondrims": ["Ellapuram", "Poondi"]},
+      {"taluk": "Avadi", "ondrims": ["Avadi", "Poonamallee"]},
+      {"taluk": "Ponneri", "ondrims": ["Minjur", "Ponneri"]},
+      {"taluk": "Gummidipoondi", "ondrims": ["Gummidipoondi", "Sholavaram"]},
+      {"taluk": "Pallipattu", "ondrims": ["Pallipattu", "R.K.Pet"]}
+    ]
+  },
+
+  {
+    "district": "Nagapattinam",
+    "taluks": [
+      {"taluk": "Nagapattinam", "ondrims": ["Nagapattinam", "Kilvelur"]},
+      {"taluk": "Sirkazhi", "ondrims": ["Sirkazhi", "Kollidam"]},
+      {"taluk": "Mayiladuthurai", "ondrims": ["Mayiladuthurai", "Kuthalam"]},
+      {"taluk": "Tharangambadi", "ondrims": ["Tharangambadi", "Sembanarkoil"]},
+      {"taluk": "Vedaranyam", "ondrims": ["Vedaranyam", "Keelaiyur"]}
+    ]
+  }
+]
+}

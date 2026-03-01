@@ -1,0 +1,124 @@
+/* ===== PAGE CONTAINER ===== */
+.worker-dashboard-container {
+  min-height: 100vh;
+  background: #f4f6f9;
+  padding: 40px 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.worker-dashboard-container h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #1e3c72;
+}
+
+/* ===== FORM SECTION ===== */
+.add-worker-form {
+  background: #ffffff;
+  max-width: 500px;
+  margin: 0 auto 40px auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.add-worker-form h3 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #2a5298;
+}
+
+/* Inputs & Select */
+.add-worker-form input,
+.add-worker-form select {
+  width: 100%;
+  padding: 12px 14px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  font-size: 14px;
+  transition: 0.3s ease;
+  outline: none;
+}
+
+.add-worker-form input:focus,
+.add-worker-form select:focus {
+  border-color: #2a5298;
+  box-shadow: 0 0 0 3px rgba(42, 82, 152, 0.15);
+}
+
+.add-worker-form select:disabled {
+  background-color: #f1f1f1;
+  cursor: not-allowed;
+}
+
+/* Add Button */
+.add-worker-form button {
+  width: 100%;
+  padding: 12px;
+  background: #2a5298;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.add-worker-form button:hover {
+  background: #1e3c72;
+  transform: translateY(-2px);
+}
+
+/* ===== WORKER LIST ===== */
+.worker-dashboard-container h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #1e3c72;
+}
+
+.worker-card {
+  background: white;
+  max-width: 500px;
+  margin: 0 auto 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.05);
+  transition: 0.3s ease;
+}
+
+.worker-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+}
+
+.worker-card p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+/* Delete Button */
+.delete-btn {
+  margin-top: 10px;
+  padding: 8px 12px;
+  background: #e53935;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: 0.3s ease;
+}
+
+.delete-btn:hover {
+  background: #c62828;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 600px) {
+  .add-worker-form,
+  .worker-card {
+    padding: 20px;
+  }
+}
